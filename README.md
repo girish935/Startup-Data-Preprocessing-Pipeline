@@ -1,4 +1,4 @@
-# Startup-Outcome-Prediction-ML
+# Startup-Outcome-Prediction-Machine-Learning-Pipeline
 Predicting the outcome of startups (Operating, Acquired, IPO, or Closed) using supervised machine learning. Developed as part of my Technocolabs Data Science Internship.
 ---
 ## 📂 Dataset
