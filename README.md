@@ -82,10 +82,10 @@ cd Startup-Outcome-Prediction-ML
 ## bash
 pip install -r requirements.txt
 
-### 3. Run your preprocessing script
+### 3. Run preprocessing script
 
 ## bash
-python your_script.py  # Or open your Jupyter Notebook
+python script.py  # Or open your Jupyter Notebook
 
 ## 📈 Output
 
