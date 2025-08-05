@@ -1,4 +1,4 @@
-# Startup-Outcome-Prediction-Machine-Learning-Pipeline
+## Startup-Outcome-Prediction-Machine-Learning-Pipeline
 ##  Project Overview
 This project aims to **predict the outcome of startups**—whether they will succeed (Operating or IPO) or fail (Acquired or Closed)—using supervised machine learning techniques.  
 
@@ -73,18 +73,18 @@ Model building not included in this part, but the dataset is now ready for super
 
 ### 1. Clone the repository
 
-# bash
+## bash
 git clone https://github.com/girish935/Startup-Outcome-Prediction-ML.git
 cd Startup-Outcome-Prediction-ML
 
 ### 2. Install dependencies
 
-# bash
+## bash
 pip install -r requirements.txt
 
 ### 3. Run your preprocessing script
 
-# bash
+## bash
 python your_script.py  # Or open your Jupyter Notebook
 
 ## 📈 Output
