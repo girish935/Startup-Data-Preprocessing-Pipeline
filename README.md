@@ -37,13 +37,13 @@ Due to file size limitations, the dataset is available via Google Drive.
 ## Project Structure
 
 Startup-Outcome-Prediction-ML/
-│
-├── data/                            # Raw dataset (Compaines.csv)
-├── processed_companies_dataset.csv  # Cleaned and preprocessed dataset
-├── notebooks/                       # (if applicable)
-├── README.md                        # Project documentation
-├── requirements.txt                 # Python dependencies
-└── your_script.py / .ipynb          # Main analysis code
+
+── data/                            # Raw dataset (Compaines.csv)
+── processed_companies_dataset.csv  # Cleaned and preprocessed dataset
+── notebooks/                       # (if applicable)
+── README.md                        # Project documentation
+── requirements.txt                 # Python dependencies
+── your_script.py / .ipynb          # Main analysis code
 
 ---
 
