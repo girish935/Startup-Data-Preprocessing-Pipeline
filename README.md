@@ -1,17 +1,9 @@
 ## Startup-Data-Preprocessing-Pipeline
-# Startup Data Preprocessing
+# Startup Data Preprocessing :- Project Overview
 
-This project focuses on preprocessing a startup dataset to prepare it for further analysis tasks. The main aim is to clean, transform, and organize the data for better usability.
-
-## Project Overview
-
-- Load the raw startup data into a pandas DataFrame.
-- Handle missing values by identifying and filling or removing them.
-- Remove duplicate rows to maintain data integrity.
-- Convert data types where necessary to ensure consistency.
-- Encode categorical variables using techniques like one-hot encoding.
-- Drop irrelevant or redundant columns to simplify the dataset.
-- Perform final checks to ensure the data is clean and ready for analysis.
+This project focuses on preprocessing startup data to prepare it for Exploratory Data Analysis (EDA) and further machine learning applications.
+The dataset contains 7,326 rows and 30 features, including numerical, categorical, and boolean columns related to startup performance, funding, milestones, and geographical details.
+The preprocessing steps ensure data quality, consistency, and readiness for analysis.
 
 ## Key Steps
 
